@@ -1,0 +1,2386 @@
+{
+  "repo": "MicrosoftDocs/azure-docs",
+  "commit": "2acd0be132de9796753b950f5c31f449bc83847e",
+  "documents": [
+    {
+      "doc_id": "azure_docs/storage/blobs/access-tiers-best-practices",
+      "path": "azure_docs/storage/blobs/access-tiers-best-practices.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-best-practices",
+      "acl": "public",
+      "size": 6877,
+      "git_sha": "4a39d1e668c05c660663589331bb8fc9cbe1cebe"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/archive-blob",
+      "path": "azure_docs/storage/blobs/archive-blob.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/archive-blob",
+      "acl": "public",
+      "size": 22621,
+      "git_sha": "7d346a0bc310e4c39abf47aae5c60494ba768e21"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/authorize-access-azure-active-directory",
+      "path": "azure_docs/storage/blobs/authorize-access-azure-active-directory.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-access-azure-active-directory",
+      "acl": "public",
+      "size": 18691,
+      "git_sha": "e37f2bf09951093bf4b37c2d6e5853698ce22710"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/blob-containers-cli",
+      "path": "azure_docs/storage/blobs/blob-containers-cli.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-cli",
+      "acl": "public",
+      "size": 17911,
+      "git_sha": "099a7bd4a5b12ad434154c729b93da7f01d04379"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/blob-inventory-performance-characteristics",
+      "path": "azure_docs/storage/blobs/blob-inventory-performance-characteristics.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/blob-inventory-performance-characteristics",
+      "acl": "public",
+      "size": 7923,
+      "git_sha": "b0c561d8907196ce34de93c54c791bf9e3b35f98"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/blob-upload-function-trigger",
+      "path": "azure_docs/storage/blobs/blob-upload-function-trigger.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger",
+      "acl": "public",
+      "size": 22061,
+      "git_sha": "c084df098e816ff17a489c304202e6df444a15d8"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/blobfuse2-commands-secure-set",
+      "path": "azure_docs/storage/blobs/blobfuse2-commands-secure-set.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-set",
+      "acl": "public",
+      "size": 3499,
+      "git_sha": "2850d7267b35e6f7ac9d62ac1d8bb02d9bb9a675"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/blobfuse2-configure-streaming",
+      "path": "azure_docs/storage/blobs/blobfuse2-configure-streaming.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configure-streaming",
+      "acl": "public",
+      "size": 5499,
+      "git_sha": "38b692f9e51e9ef9c256210d9ee6de7eb946a44a"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/blobfuse2-mount-container",
+      "path": "azure_docs/storage/blobs/blobfuse2-mount-container.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-mount-container",
+      "acl": "public",
+      "size": 4505,
+      "git_sha": "8b562895826412f01492a85c8a0022221eaecfbe"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/convert-append-and-page-blobs-to-block-blobs",
+      "path": "azure_docs/storage/blobs/convert-append-and-page-blobs-to-block-blobs.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/convert-append-and-page-blobs-to-block-blobs",
+      "acl": "public",
+      "size": 8002,
+      "git_sha": "2ee786018a5808880a4ebe0efc524791fc628c03"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/data-lake-storage-access-control",
+      "path": "azure_docs/storage/blobs/data-lake-storage-access-control.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control",
+      "acl": "public",
+      "size": 24191,
+      "git_sha": "fde7923c751b4fba1f578b2056b9b3e20af0952e"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/data-lake-storage-acl-powershell",
+      "path": "azure_docs/storage/blobs/data-lake-storage-acl-powershell.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-powershell",
+      "acl": "public",
+      "size": 18918,
+      "git_sha": "3bddd86f64b99c919e1e43fcd4e05e04f673214f"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/data-lake-storage-directory-file-acl-javascript",
+      "path": "azure_docs/storage/blobs/data-lake-storage-directory-file-acl-javascript.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-javascript",
+      "acl": "public",
+      "size": 9322,
+      "git_sha": "3d2317e6ccdb8720f1ce5dfdb5fc8b415d21e4dd"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/data-lake-storage-integrate-with-services-tutorials",
+      "path": "azure_docs/storage/blobs/data-lake-storage-integrate-with-services-tutorials.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-integrate-with-services-tutorials",
+      "acl": "public",
+      "size": 3116,
+      "git_sha": "d79eb3ec5c60f65a6524513df03804476ad82f56"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/data-lake-storage-multi-protocol-access",
+      "path": "azure_docs/storage/blobs/data-lake-storage-multi-protocol-access.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-multi-protocol-access",
+      "acl": "public",
+      "size": 3274,
+      "git_sha": "c6534d5bff1433feeb50fd5b28a831f6299e22e3"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/data-lake-storage-use-databricks-spark",
+      "path": "azure_docs/storage/blobs/data-lake-storage-use-databricks-spark.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-databricks-spark",
+      "acl": "public",
+      "size": 19277,
+      "git_sha": "70ae001aa3850ea50d39061d58710265489fa193"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/encryption-scope-manage",
+      "path": "azure_docs/storage/blobs/encryption-scope-manage.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-scope-manage",
+      "acl": "public",
+      "size": 29890,
+      "git_sha": "d13fd2ba28e3ab9dd469475381d4812004304f0e"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/immutable-version-level-worm-policies",
+      "path": "azure_docs/storage/blobs/immutable-version-level-worm-policies.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-version-level-worm-policies",
+      "acl": "public",
+      "size": 13524,
+      "git_sha": "72416a4c10946c87998a9261df4335eadfd352bb"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/lifecycle-management-policy-faq",
+      "path": "azure_docs/storage/blobs/lifecycle-management-policy-faq.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-policy-faq",
+      "acl": "public",
+      "size": 6035,
+      "git_sha": "479450835bd0691bed178b82ba536ee557d4849e"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/monitor-blob-storage",
+      "path": "azure_docs/storage/blobs/monitor-blob-storage.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/monitor-blob-storage",
+      "acl": "public",
+      "size": 21535,
+      "git_sha": "66f47448103196be6190d64b156856395bbfabe3"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/object-replication-configure",
+      "path": "azure_docs/storage/blobs/object-replication-configure.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/object-replication-configure",
+      "acl": "public",
+      "size": 38118,
+      "git_sha": "d8d21f4533f79d405dcc5506f35f9e2e5007dddc"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/premium-tier-for-data-lake-storage",
+      "path": "azure_docs/storage/blobs/premium-tier-for-data-lake-storage.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/premium-tier-for-data-lake-storage",
+      "acl": "public",
+      "size": 3593,
+      "git_sha": "c5ba78a6801a68c0f90e00a5320a7bc3d5eb276b"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/sas-service-create-java",
+      "path": "azure_docs/storage/blobs/sas-service-create-java.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/sas-service-create-java",
+      "acl": "public",
+      "size": 7075,
+      "git_sha": "125e24787b8fcc99f403e243486d5b259e5a38fa"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/secure-file-transfer-protocol-performance",
+      "path": "azure_docs/storage/blobs/secure-file-transfer-protocol-performance.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-performance",
+      "acl": "public",
+      "size": 3773,
+      "git_sha": "d0c959297074c726f6acb94b4ea030d96b6be6dc"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/security-recommendations",
+      "path": "azure_docs/storage/blobs/security-recommendations.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/security-recommendations",
+      "acl": "public",
+      "size": 15138,
+      "git_sha": "452080923c1d05366c5b0ad1bfc07880db9df6d0"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/soft-delete-container-enable",
+      "path": "azure_docs/storage/blobs/soft-delete-container-enable.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-container-enable",
+      "acl": "public",
+      "size": 7852,
+      "git_sha": "11c8feaf47873ffb464721f2b11ff9b1c66ff381"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-auth-abac-portal",
+      "path": "azure_docs/storage/blobs/storage-auth-abac-portal.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-portal",
+      "acl": "public",
+      "size": 9523,
+      "git_sha": "69b216d8003c5903d42662c5bf015f61ade7a581"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-block-blob-premium",
+      "path": "azure_docs/storage/blobs/storage-blob-block-blob-premium.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-block-blob-premium",
+      "acl": "public",
+      "size": 19924,
+      "git_sha": "e9da5aa4093f07b05a1e4b446b1e256039d35497"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-container-create-java",
+      "path": "azure_docs/storage/blobs/storage-blob-container-create-java.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-create-java",
+      "acl": "public",
+      "size": 5252,
+      "git_sha": "7f23a4468fe896c6938bfcb458aa2a40849049d7"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-container-delete-javascript",
+      "path": "azure_docs/storage/blobs/storage-blob-container-delete-javascript.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-delete-javascript",
+      "acl": "public",
+      "size": 6712,
+      "git_sha": "bd9bc08aeda8d2d09eed70853e0e5935c4823765"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-container-lease",
+      "path": "azure_docs/storage/blobs/storage-blob-container-lease.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-lease",
+      "acl": "public",
+      "size": 6729,
+      "git_sha": "1a972316f68c0d531530e77272c7274f9f29a947"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-containers-list-go",
+      "path": "azure_docs/storage/blobs/storage-blob-containers-list-go.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-containers-list-go",
+      "acl": "public",
+      "size": 6176,
+      "git_sha": "980bb9e311910567721205307527d80729713e53"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-copy-async-go",
+      "path": "azure_docs/storage/blobs/storage-blob-copy-async-go.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-async-go",
+      "acl": "public",
+      "size": 10295,
+      "git_sha": "e9d5366b36749fe0a56098f3c750a54d345af11f"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-copy-javascript",
+      "path": "azure_docs/storage/blobs/storage-blob-copy-javascript.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-javascript",
+      "acl": "public",
+      "size": 4297,
+      "git_sha": "546f311b58f469584e0fffde42e07e7d2e5c8113"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-copy-url-python",
+      "path": "azure_docs/storage/blobs/storage-blob-copy-url-python.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-url-python",
+      "acl": "public",
+      "size": 9793,
+      "git_sha": "4c8a4931c2c8eff5617fe4fef091702b3d76fccb"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-delete-javascript",
+      "path": "azure_docs/storage/blobs/storage-blob-delete-javascript.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-delete-javascript",
+      "acl": "public",
+      "size": 5550,
+      "git_sha": "0c26e7b266b982b2b57f2383919484cd16ab039a"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-download-javascript",
+      "path": "azure_docs/storage/blobs/storage-blob-download-javascript.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download-javascript",
+      "acl": "public",
+      "size": 7791,
+      "git_sha": "743e52cc903d757c11f2ccbdfbb9587286617554"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-event-quickstart",
+      "path": "azure_docs/storage/blobs/storage-blob-event-quickstart.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart",
+      "acl": "public",
+      "size": 8603,
+      "git_sha": "72340dd241638dfbda8a27ff644941ce383909af"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-lease-java",
+      "path": "azure_docs/storage/blobs/storage-blob-lease-java.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-lease-java",
+      "acl": "public",
+      "size": 6573,
+      "git_sha": "6f6209803349da2270e492ff38e838d8de87f264"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-properties-metadata-go",
+      "path": "azure_docs/storage/blobs/storage-blob-properties-metadata-go.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-properties-metadata-go",
+      "acl": "public",
+      "size": 7442,
+      "git_sha": "e794ed02990fc34bb4eda32a01fc1ec17e4cfd4e"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-query-endpoint-srp",
+      "path": "azure_docs/storage/blobs/storage-blob-query-endpoint-srp.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-query-endpoint-srp",
+      "acl": "public",
+      "size": 17060,
+      "git_sha": "e851dff084604fe777f171aabd7d36a60acb49ee"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-tags-java",
+      "path": "azure_docs/storage/blobs/storage-blob-tags-java.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-tags-java",
+      "acl": "public",
+      "size": 6080,
+      "git_sha": "285bf3ded3679d8feebc4a0b8ef911ded1810731"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-upload-javascript",
+      "path": "azure_docs/storage/blobs/storage-blob-upload-javascript.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload-javascript",
+      "acl": "public",
+      "size": 14560,
+      "git_sha": "f02951c843e7f043c3da5c84a3edc2a5f185f347"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blob-use-access-tier-python",
+      "path": "azure_docs/storage/blobs/storage-blob-use-access-tier-python.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-use-access-tier-python",
+      "acl": "public",
+      "size": 7836,
+      "git_sha": "96d246f19048cba659fad5cef3606c63f64934a1"
+    },
+    {
+      "doc_id": "azure_docs/storage/blobs/storage-blobs-introduction",
+      "path": "azure_docs/storage/blobs/storage-blobs-introduction.md",
+      "source": "azure_docs",
+      "product": "storage",
+      "url": "https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction",
+      "acl": "public",
+      "size": 8647,
+      "git_sha": "add8e6253ede63cec748cf7d764ea71295360c6c"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/add-bindings-existing-function",
+      "path": "azure_docs/azure-functions/add-bindings-existing-function.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/add-bindings-existing-function",
+      "acl": "public",
+      "size": 7612,
+      "git_sha": "211511cee61ef8141840641fee1769099418b209"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/configure-monitoring",
+      "path": "azure_docs/azure-functions/configure-monitoring.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/configure-monitoring",
+      "acl": "public",
+      "size": 34014,
+      "git_sha": "aa283960226d3a3c6d7da90f728043872e60541d"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/dedicated-plan",
+      "path": "azure_docs/azure-functions/dedicated-plan.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan",
+      "acl": "public",
+      "size": 4655,
+      "git_sha": "5d8897ebc62a8110b3bf9768cfe84e1d7290ad7a"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/event-grid-how-tos",
+      "path": "azure_docs/azure-functions/event-grid-how-tos.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/event-grid-how-tos",
+      "acl": "public",
+      "size": 10704,
+      "git_sha": "eee2fdb976569cda4a8ef8626ca62d01a423efe4"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-add-output-binding-azure-sql-vs-code",
+      "path": "azure_docs/azure-functions/functions-add-output-binding-azure-sql-vs-code.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code",
+      "acl": "public",
+      "size": 18315,
+      "git_sha": "36fa4d8457f53b0082a70fbf9b1c009a3e743537"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-agent-bindings-agent-framework",
+      "path": "azure_docs/azure-functions/functions-agent-bindings-agent-framework.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-agent-bindings-agent-framework",
+      "acl": "public",
+      "size": 9365,
+      "git_sha": "142a08f30d3dab412f8829a2cd348d3a117092cf"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-azure-data-explorer",
+      "path": "azure_docs/azure-functions/functions-bindings-azure-data-explorer.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer",
+      "acl": "public",
+      "size": 6453,
+      "git_sha": "131f992db2ad90278dc67edea4e7b8451f888c12"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-azure-sql-output",
+      "path": "azure_docs/azure-functions/functions-bindings-azure-sql-output.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-output",
+      "acl": "public",
+      "size": 38563,
+      "git_sha": "788d1b6a28f195c4e44895cdcf51cb8f75cd85da"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-cache-trigger-redispubsub",
+      "path": "azure_docs/azure-functions/functions-bindings-cache-trigger-redispubsub.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redispubsub",
+      "acl": "public",
+      "size": 23485,
+      "git_sha": "0fe54371f43f2f303ed4d61c72e5fb2b2f18dfda"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-cosmosdb-v2-trigger",
+      "path": "azure_docs/azure-functions/functions-bindings-cosmosdb-v2-trigger.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-trigger",
+      "acl": "public",
+      "size": 33295,
+      "git_sha": "4ff9ba9da7189652a664a29a0bf4af93d46851a4"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-dapr-output-publish",
+      "path": "azure_docs/azure-functions/functions-bindings-dapr-output-publish.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output-publish",
+      "acl": "public",
+      "size": 14794,
+      "git_sha": "a328f03de25f70bb1f7906af8aa5154b55c2f310"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-dapr",
+      "path": "azure_docs/azure-functions/functions-bindings-dapr.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr",
+      "acl": "public",
+      "size": 19844,
+      "git_sha": "b69b1c0ed7909999117458e35438d8ec22fdbe4d"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-event-grid-trigger",
+      "path": "azure_docs/azure-functions/functions-bindings-event-grid-trigger.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid-trigger",
+      "acl": "public",
+      "size": 17939,
+      "git_sha": "915dd65b2cc88f9686d8652a363f895b7280ac42"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-http-webhook",
+      "path": "azure_docs/azure-functions/functions-bindings-http-webhook.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook",
+      "acl": "public",
+      "size": 6992,
+      "git_sha": "97ba55bebfcc0583e09c5e391f253a53984d316f"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-mcp-tool-trigger",
+      "path": "azure_docs/azure-functions/functions-bindings-mcp-tool-trigger.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mcp-tool-trigger",
+      "acl": "public",
+      "size": 23374,
+      "git_sha": "8493642d985e254b076bc79a06b3b621387343c8"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-openai-assistantpost-input",
+      "path": "azure_docs/azure-functions/functions-bindings-openai-assistantpost-input.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantpost-input",
+      "acl": "public",
+      "size": 16449,
+      "git_sha": "10fdb8243f7277d146fa8bf24e31ff35eee8c737"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-openai",
+      "path": "azure_docs/azure-functions/functions-bindings-openai.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai",
+      "acl": "public",
+      "size": 5940,
+      "git_sha": "cf4c1ba446d6b0824972a7884cce734a3e2139db"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-service-bus-output",
+      "path": "azure_docs/azure-functions/functions-bindings-service-bus-output.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus-output",
+      "acl": "public",
+      "size": 25098,
+      "git_sha": "fd62735109b60b13426f37b9039a84b39d4d3844"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-signalr-service",
+      "path": "azure_docs/azure-functions/functions-bindings-signalr-service.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service",
+      "acl": "public",
+      "size": 11190,
+      "git_sha": "d3a91df94434fcd9732d31da37715e5ea654f325"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-storage-queue-trigger",
+      "path": "azure_docs/azure-functions/functions-bindings-storage-queue-trigger.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue-trigger",
+      "acl": "public",
+      "size": 27721,
+      "git_sha": "445132dff03bc0dd8d259fc41e133b8e4bfd6284"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-bindings-twilio",
+      "path": "azure_docs/azure-functions/functions-bindings-twilio.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio",
+      "acl": "public",
+      "size": 11850,
+      "git_sha": "dc206609dd85501946c16bc3a8fe5e3a27877dd7"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-cli-develop-local",
+      "path": "azure_docs/azure-functions/functions-cli-develop-local.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-cli-develop-local",
+      "acl": "public",
+      "size": 8274,
+      "git_sha": "b45961a615f9a0ca1ed09ee3a5c16fe36814b35a"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-container-apps-hosting",
+      "path": "azure_docs/azure-functions/functions-container-apps-hosting.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting",
+      "acl": "public",
+      "size": 14181,
+      "git_sha": "a537a46b6f3c2f06d235cc82efd95c32d95b9e95"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-create-first-java-gradle",
+      "path": "azure_docs/azure-functions/functions-create-first-java-gradle.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-gradle",
+      "acl": "public",
+      "size": 6638,
+      "git_sha": "df22ed590fcb2b7c16a922e178787c798e54023f"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-create-maven-kotlin-intellij",
+      "path": "azure_docs/azure-functions/functions-create-maven-kotlin-intellij.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-kotlin-intellij",
+      "acl": "public",
+      "size": 5965,
+      "git_sha": "1e732e414f6b14efb94b9e7d8278357ec617b763"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-create-your-first-function-visual-studio",
+      "path": "azure_docs/azure-functions/functions-create-your-first-function-visual-studio.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio",
+      "acl": "public",
+      "size": 9563,
+      "git_sha": "fe66dabbd56657964110b68aa7fbac96af78122b"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-deployment-technologies",
+      "path": "azure_docs/azure-functions/functions-deployment-technologies.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies",
+      "acl": "public",
+      "size": 31909,
+      "git_sha": "e4b4693d51cd255c73aff464a73e61d0635a17c3"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-dotnet-dependency-injection",
+      "path": "azure_docs/azure-functions/functions-dotnet-dependency-injection.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection",
+      "acl": "public",
+      "size": 16588,
+      "git_sha": "8dbb804c7b602418919e4b707e13e24bade55f7c"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-hosted-skills-ai-coding-assistant",
+      "path": "azure_docs/azure-functions/functions-hosted-skills-ai-coding-assistant.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-ai-coding-assistant",
+      "acl": "public",
+      "size": 13223,
+      "git_sha": "214a2c1430f2b2cf3fe039ef3adb07edbf9d47f2"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-hosted-skills-evaluation",
+      "path": "azure_docs/azure-functions/functions-hosted-skills-evaluation.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-hosted-skills-evaluation",
+      "acl": "public",
+      "size": 7719,
+      "git_sha": "eb9a4832d65c8084643f89d4034da852109f95fe"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-how-to-azure-devops",
+      "path": "azure_docs/azure-functions/functions-how-to-azure-devops.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops",
+      "acl": "public",
+      "size": 27994,
+      "git_sha": "9d3971da3201607157dafbdc3a3f9d017a221fb3"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-identity-access-azure-sql-with-managed-identity",
+      "path": "azure_docs/azure-functions/functions-identity-access-azure-sql-with-managed-identity.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity",
+      "acl": "public",
+      "size": 9204,
+      "git_sha": "80428dcfa8d4b04db16b7bf214f693e9e8a31402"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-mcp-foundry-tools",
+      "path": "azure_docs/azure-functions/functions-mcp-foundry-tools.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-mcp-foundry-tools",
+      "acl": "public",
+      "size": 19695,
+      "git_sha": "f172c7a01bbcd63dcbf3413e461352ead2d76c08"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-openapi-definition",
+      "path": "azure_docs/azure-functions/functions-openapi-definition.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition",
+      "acl": "public",
+      "size": 3991,
+      "git_sha": "754b22648fbde33400b5cc8261b98256b2dd4030"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-reference-powershell",
+      "path": "azure_docs/azure-functions/functions-reference-powershell.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell",
+      "acl": "public",
+      "size": 34800,
+      "git_sha": "72cd638bbfc3b252cbcf4cf441670d9426ede8ab"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-runtime-1x-legacy",
+      "path": "azure_docs/azure-functions/functions-runtime-1x-legacy.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-runtime-1x-legacy",
+      "acl": "public",
+      "size": 31556,
+      "git_sha": "ea21c27c3fb5370e8faecc46804eba532be865a8"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/functions-twitter-email",
+      "path": "azure_docs/azure-functions/functions-twitter-email.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email",
+      "acl": "public",
+      "size": 12959,
+      "git_sha": "dd099c7f59041915f4d261865b7ca2ca397b4212"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/language-support-policy",
+      "path": "azure_docs/azure-functions/language-support-policy.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy",
+      "acl": "public",
+      "size": 9563,
+      "git_sha": "e59eeeac9bc6e23388c63968219f5c78d1e6f50d"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/migrate-version-1-version-4",
+      "path": "azure_docs/azure-functions/migrate-version-1-version-4.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4",
+      "acl": "public",
+      "size": 29064,
+      "git_sha": "f79a6a4f8b0aa53193d6f624d455697d7588ff88"
+    },
+    {
+      "doc_id": "azure_docs/azure-functions/node-scale-performance",
+      "path": "azure_docs/azure-functions/node-scale-performance.md",
+      "source": "azure_docs",
+      "product": "azure-functions",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-functions/node-scale-performance",
+      "acl": "public",
+      "size": 15547,
+      "git_sha": "da34f589932170a8f236f9ede0586327f5db493e"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/ai-integration",
+      "path": "azure_docs/container-apps/ai-integration.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/ai-integration",
+      "acl": "public",
+      "size": 3514,
+      "git_sha": "318695f47d733e9805f30e12cf4fe2f8e2a2ca3a"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/authentication-facebook",
+      "path": "azure_docs/container-apps/authentication-facebook.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/authentication-facebook",
+      "acl": "public",
+      "size": 4332,
+      "git_sha": "19eec76c1ff8ef6b664b93d57b543ce2308a8d5e"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/azure-arc-create-container-app",
+      "path": "azure_docs/container-apps/azure-arc-create-container-app.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-create-container-app",
+      "acl": "public",
+      "size": 7060,
+      "git_sha": "ec594973dfbcdec4a6fbd8f8e09f54da011a85be"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/azure-pipelines",
+      "path": "azure_docs/container-apps/azure-pipelines.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/azure-pipelines",
+      "acl": "public",
+      "size": 9338,
+      "git_sha": "8a9e25aa4ebe29b89cb424cb4587732cf4973c4f"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/code-to-cloud-options",
+      "path": "azure_docs/container-apps/code-to-cloud-options.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options",
+      "acl": "public",
+      "size": 6455,
+      "git_sha": "17636cce0909e0e0856a829f931281039ed12b2e"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/connect-apps",
+      "path": "azure_docs/container-apps/connect-apps.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/connect-apps",
+      "acl": "public",
+      "size": 14971,
+      "git_sha": "b5ecfb25b2642b1c2947a395c4b0fb8476a98252"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/containerapp-up",
+      "path": "azure_docs/container-apps/containerapp-up.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up",
+      "acl": "public",
+      "size": 11203,
+      "git_sha": "78e87d5d59fb9b780c323c1012620335101d14b6"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/custom-virtual-networks",
+      "path": "azure_docs/container-apps/custom-virtual-networks.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/custom-virtual-networks",
+      "acl": "public",
+      "size": 10899,
+      "git_sha": "59ff5c4d40c85ffaa81fb74e708026a4937c0c03"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/dapr-functions-extension",
+      "path": "azure_docs/container-apps/dapr-functions-extension.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/dapr-functions-extension",
+      "acl": "public",
+      "size": 6814,
+      "git_sha": "96c9095d03f093633292c34d5b9bc1862918eb20"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/deploy-visual-studio-code",
+      "path": "azure_docs/container-apps/deploy-visual-studio-code.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/deploy-visual-studio-code",
+      "acl": "public",
+      "size": 4869,
+      "git_sha": "e6521243b9bb33d8dc5656368be41d686346467d"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/enable-dapr",
+      "path": "azure_docs/container-apps/enable-dapr.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/enable-dapr",
+      "acl": "public",
+      "size": 7272,
+      "git_sha": "0a99c8d87530209924460794e3c3fc0b29b7b0f7"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/express-overview",
+      "path": "azure_docs/container-apps/express-overview.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/express-overview",
+      "acl": "public",
+      "size": 13235,
+      "git_sha": "76e074a60e487b623448495d234843ae09406f9e"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/functions-keda-mappings",
+      "path": "azure_docs/container-apps/functions-keda-mappings.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/functions-keda-mappings",
+      "acl": "public",
+      "size": 8177,
+      "git_sha": "ce66862e71262030d9abfd208088ab783228873d"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/functions-secrets-host-keys",
+      "path": "azure_docs/container-apps/functions-secrets-host-keys.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/functions-secrets-host-keys",
+      "acl": "public",
+      "size": 19629,
+      "git_sha": "14455b8d58173707970aaa405435eae45c239cd9"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/get-started-existing-container-image",
+      "path": "azure_docs/container-apps/get-started-existing-container-image.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/get-started-existing-container-image",
+      "acl": "public",
+      "size": 10223,
+      "git_sha": "060a79c6fa980ae7e124a0efc4c7b4b917f9e56e"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/gpu-serverless-overview",
+      "path": "azure_docs/container-apps/gpu-serverless-overview.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview",
+      "acl": "public",
+      "size": 12341,
+      "git_sha": "2bd25130f62c81cda7dc348b631dcaaf4e13f5ed"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/how-to-zone-redundancy",
+      "path": "azure_docs/container-apps/how-to-zone-redundancy.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/how-to-zone-redundancy",
+      "acl": "public",
+      "size": 8737,
+      "git_sha": "517ca96e9109d77625497b4538774f4c7af6ada0"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/java-admin-eureka-integration",
+      "path": "azure_docs/container-apps/java-admin-eureka-integration.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration",
+      "acl": "public",
+      "size": 9405,
+      "git_sha": "fa7ec9e5bba8dd2db62bb801f97d29f4599bbcee"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/java-config-server",
+      "path": "azure_docs/container-apps/java-config-server.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/java-config-server",
+      "acl": "public",
+      "size": 34304,
+      "git_sha": "6b8288f65faa3cca4f005e0eb2f7ad76183d3ac9"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/java-feature-switch",
+      "path": "azure_docs/container-apps/java-feature-switch.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/java-feature-switch",
+      "acl": "public",
+      "size": 5677,
+      "git_sha": "efadde3403cb041ef15b2ffc392e71713ea4c185"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/java-metrics-with-grafana",
+      "path": "azure_docs/container-apps/java-metrics-with-grafana.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-with-grafana",
+      "acl": "public",
+      "size": 8026,
+      "git_sha": "6482023c4d815712e912f940e51486c52e210f1f"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/jobs-get-started-cli",
+      "path": "azure_docs/container-apps/jobs-get-started-cli.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-cli",
+      "acl": "public",
+      "size": 6430,
+      "git_sha": "8ca72a0cf4a5bc4fb978dee1296a2a331f11eb66"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/log-options",
+      "path": "azure_docs/container-apps/log-options.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/log-options",
+      "acl": "public",
+      "size": 10765,
+      "git_sha": "c24b2e6606e55a606dc4a5e2195e195060c398a1"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/managed-identity",
+      "path": "azure_docs/container-apps/managed-identity.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/managed-identity",
+      "acl": "public",
+      "size": 30697,
+      "git_sha": "905450f58d961419f9cb795b29f0e1841a9ef9b5"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/metrics",
+      "path": "azure_docs/container-apps/metrics.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/metrics",
+      "acl": "public",
+      "size": 6588,
+      "git_sha": "250dbc55a75df0d163326aac82505e733493e520"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/microservices-dapr",
+      "path": "azure_docs/container-apps/microservices-dapr.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr",
+      "acl": "public",
+      "size": 14677,
+      "git_sha": "f6e883fbbef4a954e5797785a107d2075224939b"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/migrate-java-github-copilot-app-modernization",
+      "path": "azure_docs/container-apps/migrate-java-github-copilot-app-modernization.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/migrate-java-github-copilot-app-modernization",
+      "acl": "public",
+      "size": 28251,
+      "git_sha": "e312a36dd8f5ef26ffaba1e5364f7a0b4308aa1e"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/migrate-tomcat",
+      "path": "azure_docs/container-apps/migrate-tomcat.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/migrate-tomcat",
+      "acl": "public",
+      "size": 20497,
+      "git_sha": "d7544db6856c4b16f849a1ddb8d0e25859c88325"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/opentelemetry-agents",
+      "path": "azure_docs/container-apps/opentelemetry-agents.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents",
+      "acl": "public",
+      "size": 30439,
+      "git_sha": "f1145734a5618c92ca57bd7e4d42c318316e0027"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/overview",
+      "path": "azure_docs/container-apps/overview.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/overview",
+      "acl": "public",
+      "size": 4091,
+      "git_sha": "b2e6e40b3645c3666f03083ebffc152a3b1ce503"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/quickstart-portal",
+      "path": "azure_docs/container-apps/quickstart-portal.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/quickstart-portal",
+      "acl": "public",
+      "size": 3977,
+      "git_sha": "116bbfd23caa4b9164cc81f61346d5d554d09ac6"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/revisions-manage",
+      "path": "azure_docs/container-apps/revisions-manage.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/revisions-manage",
+      "acl": "public",
+      "size": 11037,
+      "git_sha": "633ee8723c84f5920abc1a8e42e28f8e46b7b813"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/sandboxes-egress-policies",
+      "path": "azure_docs/container-apps/sandboxes-egress-policies.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-egress-policies",
+      "acl": "public",
+      "size": 6409,
+      "git_sha": "6083d6d54ce57dd4def0796c8e9192203220f8ac"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/sandboxes-quickstart-portal",
+      "path": "azure_docs/container-apps/sandboxes-quickstart-portal.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/sandboxes-quickstart-portal",
+      "acl": "public",
+      "size": 3241,
+      "git_sha": "f538596a02c1e758c34a07cd483d7120ca921d6f"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/security",
+      "path": "azure_docs/container-apps/security.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/security",
+      "acl": "public",
+      "size": 7940,
+      "git_sha": "27699e6bf1e009466666b161a1b7d2bce2239701"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/sessions-custom-container",
+      "path": "azure_docs/container-apps/sessions-custom-container.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container",
+      "acl": "public",
+      "size": 14819,
+      "git_sha": "89f9bebd48f6fc8d803d974c58100265ca092baf"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/sessions-tutorial-python-mcp",
+      "path": "azure_docs/container-apps/sessions-tutorial-python-mcp.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-python-mcp",
+      "acl": "public",
+      "size": 12219,
+      "git_sha": "a6ffb99177ea00932e3fa81826892eb3f68aae3d"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/sessions",
+      "path": "azure_docs/container-apps/sessions.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/sessions",
+      "acl": "public",
+      "size": 7402,
+      "git_sha": "57f795a2448e17fac2c97897be5c2a5b898f5a75"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/token-store",
+      "path": "azure_docs/container-apps/token-store.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/token-store",
+      "acl": "public",
+      "size": 3896,
+      "git_sha": "0e52f0a03afe51d5f61fec9b27021c0e0bd8dfac"
+    },
+    {
+      "doc_id": "azure_docs/container-apps/troubleshoot-environment-capacity",
+      "path": "azure_docs/container-apps/troubleshoot-environment-capacity.md",
+      "source": "azure_docs",
+      "product": "container-apps",
+      "url": "https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-environment-capacity",
+      "acl": "public",
+      "size": 6932,
+      "git_sha": "efe9cd7190e6c148d66fd50655b8ff8dedea4a12"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/best-practices",
+      "path": "azure_docs/role-based-access-control/best-practices.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/best-practices",
+      "acl": "public",
+      "size": 5915,
+      "git_sha": "fa51dd13635b311c13b47954adffdd3d8c7f7922"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/check-access",
+      "path": "azure_docs/role-based-access-control/check-access.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/check-access",
+      "acl": "public",
+      "size": 5552,
+      "git_sha": "c1ab7f2339493abb4a41378c58297110f2f5c112"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/conditions-authorization-actions-attributes",
+      "path": "azure_docs/role-based-access-control/conditions-authorization-actions-attributes.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-authorization-actions-attributes",
+      "acl": "public",
+      "size": 6045,
+      "git_sha": "69ab6a11d800e491c0a2ffce3141c5b482fa78cb"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/conditions-custom-security-attributes",
+      "path": "azure_docs/role-based-access-control/conditions-custom-security-attributes.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-custom-security-attributes",
+      "acl": "public",
+      "size": 16306,
+      "git_sha": "5fcd3f16ee74466856eec0012edbe7aec02dc289"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/conditions-format",
+      "path": "azure_docs/role-based-access-control/conditions-format.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-format",
+      "acl": "public",
+      "size": 26884,
+      "git_sha": "0026f13e0d247289174084c7e695db02b4ec76c3"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/conditions-prerequisites",
+      "path": "azure_docs/role-based-access-control/conditions-prerequisites.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-prerequisites",
+      "acl": "public",
+      "size": 3909,
+      "git_sha": "35e820307b748c17852bad6a52a88c10b7ca3e27"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/conditions-role-assignments-portal",
+      "path": "azure_docs/role-based-access-control/conditions-role-assignments-portal.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-role-assignments-portal",
+      "acl": "public",
+      "size": 9293,
+      "git_sha": "db48d3eee861644c8eac6892bed1de18dcdd8b9d"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/conditions-role-assignments-rest",
+      "path": "azure_docs/role-based-access-control/conditions-role-assignments-rest.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-role-assignments-rest",
+      "acl": "public",
+      "size": 7198,
+      "git_sha": "7707b8eacd9afab20e20e11107c057eb21554be3"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/conditions-troubleshoot",
+      "path": "azure_docs/role-based-access-control/conditions-troubleshoot.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/conditions-troubleshoot",
+      "acl": "public",
+      "size": 19723,
+      "git_sha": "5cb32d934011cc2c5b73672118f14d583017d0e3"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/custom-roles-cli",
+      "path": "azure_docs/role-based-access-control/custom-roles-cli.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles-cli",
+      "acl": "public",
+      "size": 8156,
+      "git_sha": "7b5d855bd425fec508e2ed46398e788c13e3d664"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/custom-roles-powershell",
+      "path": "azure_docs/role-based-access-control/custom-roles-powershell.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles-powershell",
+      "acl": "public",
+      "size": 18189,
+      "git_sha": "867c6162a218a9d50a397bbf5e6b8dd36101d57d"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/custom-roles-template",
+      "path": "azure_docs/role-based-access-control/custom-roles-template.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles-template",
+      "acl": "public",
+      "size": 9227,
+      "git_sha": "4d4e9dd71e4917092c7189948eaff990c4b44969"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/delegate-role-assignments-examples",
+      "path": "azure_docs/role-based-access-control/delegate-role-assignments-examples.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/delegate-role-assignments-examples",
+      "acl": "public",
+      "size": 43654,
+      "git_sha": "9d8f8ecd171e59b685088221616bdd4247a3c294"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/delegate-role-assignments-portal",
+      "path": "azure_docs/role-based-access-control/delegate-role-assignments-portal.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/delegate-role-assignments-portal",
+      "acl": "public",
+      "size": 14403,
+      "git_sha": "12b7080824751fdc82671f7b0ae1a48dd08d9244"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/elevate-access-global-admin",
+      "path": "azure_docs/role-based-access-control/elevate-access-global-admin.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin",
+      "acl": "public",
+      "size": 31672,
+      "git_sha": "46cc1db50201db5d988b9b8761234f4113f14f24"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/pim-integration",
+      "path": "azure_docs/role-based-access-control/pim-integration.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/pim-integration",
+      "acl": "public",
+      "size": 14567,
+      "git_sha": "a5037d78ff9a2bffad3a60f57adc21fd096a16a7"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/quickstart-role-assignments-bicep",
+      "path": "azure_docs/role-based-access-control/quickstart-role-assignments-bicep.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/quickstart-role-assignments-bicep",
+      "acl": "public",
+      "size": 4566,
+      "git_sha": "a103641f2f3f1c609cecc49a4e6f302503e36443"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/rbac-and-directory-admin-roles",
+      "path": "azure_docs/role-based-access-control/rbac-and-directory-admin-roles.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles",
+      "acl": "public",
+      "size": 13667,
+      "git_sha": "cd8335540bfc38d4df4d0787942898e24113f66d"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-alert",
+      "path": "azure_docs/role-based-access-control/role-assignments-alert.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-alert",
+      "acl": "public",
+      "size": 6847,
+      "git_sha": "ebced4cbea2fceb08546b61dd90682ccb7759cf5"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-eligible-activate",
+      "path": "azure_docs/role-based-access-control/role-assignments-eligible-activate.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-eligible-activate",
+      "acl": "public",
+      "size": 4975,
+      "git_sha": "d71a109bfd772e22bfa5b2832c1de3dc3fe3b0b9"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-list-cli",
+      "path": "azure_docs/role-based-access-control/role-assignments-list-cli.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-cli",
+      "acl": "public",
+      "size": 6866,
+      "git_sha": "cbe3994bdaf12469b37c28a68bf0d21ef164c91d"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-list-powershell",
+      "path": "azure_docs/role-based-access-control/role-assignments-list-powershell.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-powershell",
+      "acl": "public",
+      "size": 8532,
+      "git_sha": "c859745f20b2f8f4ef9ebfbf47a59a23d9fa900b"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-portal-managed-identity",
+      "path": "azure_docs/role-based-access-control/role-assignments-portal-managed-identity.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal-managed-identity",
+      "acl": "public",
+      "size": 4835,
+      "git_sha": "49fd8b710aa4456fed7c60aef5f93688e3abc8c8"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-portal",
+      "path": "azure_docs/role-based-access-control/role-assignments-portal.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal",
+      "acl": "public",
+      "size": 13350,
+      "git_sha": "96a7b9d7114e83d863faa4ef2ef908bd5105f9ef"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-remove",
+      "path": "azure_docs/role-based-access-control/role-assignments-remove.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-remove",
+      "acl": "public",
+      "size": 9279,
+      "git_sha": "55bc0993ea5eeb0042d9276b7d626de6f437f6e4"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments-steps",
+      "path": "azure_docs/role-based-access-control/role-assignments-steps.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-steps",
+      "acl": "public",
+      "size": 9960,
+      "git_sha": "47847a2d02593637cd9b104bd9c0a555ac636706"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-assignments",
+      "path": "azure_docs/role-based-access-control/role-assignments.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments",
+      "acl": "public",
+      "size": 10308,
+      "git_sha": "3bae3fd55a70656a6c5ef579441563de3d4d91b3"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/role-definitions",
+      "path": "azure_docs/role-based-access-control/role-definitions.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/role-definitions",
+      "acl": "public",
+      "size": 25958,
+      "git_sha": "3f13af6402375b7270017e053202d7ed8c4352b6"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/transfer-subscription",
+      "path": "azure_docs/role-based-access-control/transfer-subscription.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/transfer-subscription",
+      "acl": "public",
+      "size": 30129,
+      "git_sha": "ee92902e6470185cfdba26983482052d43c6a01f"
+    },
+    {
+      "doc_id": "azure_docs/role-based-access-control/troubleshooting",
+      "path": "azure_docs/role-based-access-control/troubleshooting.md",
+      "source": "azure_docs",
+      "product": "role-based-access-control",
+      "url": "https://learn.microsoft.com/en-us/azure/role-based-access-control/troubleshooting",
+      "acl": "public",
+      "size": 34230,
+      "git_sha": "3c713b568d479cba6448c8cc77ca26cdb5af629e"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/add-custom-data-event",
+      "path": "azure_docs/event-hubs/add-custom-data-event.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/add-custom-data-event",
+      "acl": "public",
+      "size": 3582,
+      "git_sha": "874c0ca23327719557014dd6dd35a3d699f9cfa4"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/apache-kafka-developer-guide",
+      "path": "azure_docs/event-hubs/apache-kafka-developer-guide.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-developer-guide",
+      "acl": "public",
+      "size": 7779,
+      "git_sha": "2f8a009977d46d29f5ade387d1a8fd13ddd8b4f2"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/apache-kafka-streams",
+      "path": "azure_docs/event-hubs/apache-kafka-streams.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-streams",
+      "acl": "public",
+      "size": 10909,
+      "git_sha": "200a8a4db7a0471de1db6fbc3fcfa34e60d544f1"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/apache-kafka-troubleshooting-guide",
+      "path": "azure_docs/event-hubs/apache-kafka-troubleshooting-guide.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-troubleshooting-guide",
+      "acl": "public",
+      "size": 6000,
+      "git_sha": "a1df66a7c1e4b64294d40985804790f94414dc8c"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/authenticate-application",
+      "path": "azure_docs/event-hubs/authenticate-application.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-application",
+      "acl": "public",
+      "size": 10894,
+      "git_sha": "26b3445e9a5c3c5cdecd74237c4f9b17d83b6ce5"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/authenticate-managed-identity",
+      "path": "azure_docs/event-hubs/authenticate-managed-identity.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-managed-identity",
+      "acl": "public",
+      "size": 7923,
+      "git_sha": "59e385c9a3169d55147dcd8369d624b38f700d4e"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/authorize-access-azure-active-directory",
+      "path": "azure_docs/event-hubs/authorize-access-azure-active-directory.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-azure-active-directory",
+      "acl": "public",
+      "size": 8025,
+      "git_sha": "90fc3bfc90e77c13202f5aca7273c7f69319c87b"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/authorize-access-shared-access-signature",
+      "path": "azure_docs/event-hubs/authorize-access-shared-access-signature.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-shared-access-signature",
+      "acl": "public",
+      "size": 9277,
+      "git_sha": "c943c228320f3c806cdf121facdf942aaf25f7a8"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/confidential-computing",
+      "path": "azure_docs/event-hubs/confidential-computing.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/confidential-computing",
+      "acl": "public",
+      "size": 10869,
+      "git_sha": "cad6fb7cf0f00e2e4b823d8b0b236bfe8ff075fd"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/configure-event-hub-properties",
+      "path": "azure_docs/event-hubs/configure-event-hub-properties.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/configure-event-hub-properties",
+      "acl": "public",
+      "size": 4638,
+      "git_sha": "3fee8f557a17bda962a056bd0d67401101819607"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/connect-event-hub",
+      "path": "azure_docs/event-hubs/connect-event-hub.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/connect-event-hub",
+      "acl": "public",
+      "size": 4424,
+      "git_sha": "02d57f6f4d8dc65e74cdb40eac88e3bef19a5559"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/dynamically-add-partitions",
+      "path": "azure_docs/event-hubs/dynamically-add-partitions.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/dynamically-add-partitions",
+      "acl": "public",
+      "size": 8887,
+      "git_sha": "2ae29ef07d2a3d97160397645b44868e659b7828"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/enable-managed-identity",
+      "path": "azure_docs/event-hubs/enable-managed-identity.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/enable-managed-identity",
+      "acl": "public",
+      "size": 3476,
+      "git_sha": "f9cdf763cc5cde22d5f73e609a0b18b382e985d6"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-availability-and-consistency",
+      "path": "azure_docs/event-hubs/event-hubs-availability-and-consistency.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency",
+      "acl": "public",
+      "size": 9078,
+      "git_sha": "71f7e67699bd6ca1e62945dd933aa958ee1ddf7d"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-c-getstarted-send",
+      "path": "azure_docs/event-hubs/event-hubs-c-getstarted-send.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-c-getstarted-send",
+      "acl": "public",
+      "size": 7207,
+      "git_sha": "785e51a798ef1f48afa1acfb1cf1c1f223cd138e"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-capture-managed-identity",
+      "path": "azure_docs/event-hubs/event-hubs-capture-managed-identity.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-managed-identity",
+      "acl": "public",
+      "size": 5224,
+      "git_sha": "a048b7ab2fbfa69d79666a46e8d14a1e74d69d62"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-capture-python",
+      "path": "azure_docs/event-hubs/event-hubs-capture-python.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-python",
+      "acl": "public",
+      "size": 10947,
+      "git_sha": "4904a1c7c66ea3c137a33c62459cafb4a1832da5"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-data-explorer",
+      "path": "azure_docs/event-hubs/event-hubs-data-explorer.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-data-explorer",
+      "acl": "public",
+      "size": 8366,
+      "git_sha": "1ea493a92780801f72396aa5b7369b87839f2ac9"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-dedicated-overview",
+      "path": "azure_docs/event-hubs/event-hubs-dedicated-overview.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-overview",
+      "acl": "public",
+      "size": 6244,
+      "git_sha": "990cd7e84a67b8f2891073b248f5e629ff190ee7"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-emulator-whats-new",
+      "path": "azure_docs/event-hubs/event-hubs-emulator-whats-new.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-emulator-whats-new",
+      "acl": "public",
+      "size": 3019,
+      "git_sha": "39d6c1b386883d952d001746528367316d3a1e8d"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-features",
+      "path": "azure_docs/event-hubs/event-hubs-features.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-features",
+      "acl": "public",
+      "size": 11156,
+      "git_sha": "9633cf0cb426a14b5dd1a124a5cfe87e97a20ef9"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-federation-patterns",
+      "path": "azure_docs/event-hubs/event-hubs-federation-patterns.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-patterns",
+      "acl": "public",
+      "size": 19529,
+      "git_sha": "fb0df850d1e1974b438ad8d19fb61dec0e90cd21"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-get-connection-string",
+      "path": "azure_docs/event-hubs/event-hubs-get-connection-string.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-get-connection-string",
+      "acl": "public",
+      "size": 6743,
+      "git_sha": "5b017cb8aa317d523458686ac6e8566a47ba39c9"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-ip-filtering",
+      "path": "azure_docs/event-hubs/event-hubs-ip-filtering.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-ip-filtering",
+      "acl": "public",
+      "size": 15089,
+      "git_sha": "16c31b3916788e8e7549ccae75817fbe0b30afa3"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-kafka-akka-streams-tutorial",
+      "path": "azure_docs/event-hubs/event-hubs-kafka-akka-streams-tutorial.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-akka-streams-tutorial",
+      "acl": "public",
+      "size": 7010,
+      "git_sha": "cdfb201ba4be86e97eb4d6a15cd52b12235a7d32"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-kafka-connect-tutorial",
+      "path": "azure_docs/event-hubs/event-hubs-kafka-connect-tutorial.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-connect-tutorial",
+      "acl": "public",
+      "size": 8724,
+      "git_sha": "4cda4d40c0735267d4dffcc39af010547f543922"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-kafka-mirror-maker-tutorial",
+      "path": "azure_docs/event-hubs/event-hubs-kafka-mirror-maker-tutorial.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-mirror-maker-tutorial",
+      "acl": "public",
+      "size": 8313,
+      "git_sha": "ab50d48f7b5bb563a22b29c251ed6c2c033deae4"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-kafka-spark-tutorial",
+      "path": "azure_docs/event-hubs/event-hubs-kafka-spark-tutorial.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-spark-tutorial",
+      "acl": "public",
+      "size": 5168,
+      "git_sha": "b051074f8845883467f5b0bfe410041fbc54cdd2"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-management-libraries",
+      "path": "azure_docs/event-hubs/event-hubs-management-libraries.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-management-libraries",
+      "acl": "public",
+      "size": 5839,
+      "git_sha": "829d4991e5eac05b7274737808b96bc66a1dcd0a"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-node-get-started-send",
+      "path": "azure_docs/event-hubs/event-hubs-node-get-started-send.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-node-get-started-send",
+      "acl": "public",
+      "size": 15744,
+      "git_sha": "b832ddc658af85c25a84a1db1d395e722fd05c9a"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-python-get-started-send",
+      "path": "azure_docs/event-hubs/event-hubs-python-get-started-send.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-python-get-started-send",
+      "acl": "public",
+      "size": 16699,
+      "git_sha": "a051cd76265ef57b0c2c4559bc15892b7264ea30"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-quickstart-kafka-enabled-event-hubs",
+      "path": "azure_docs/event-hubs/event-hubs-quickstart-kafka-enabled-event-hubs.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-kafka-enabled-event-hubs",
+      "acl": "public",
+      "size": 11718,
+      "git_sha": "8db0fe91496f5b278b37fbec0e33474c602e44a4"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-quickstart-stream-large-messages",
+      "path": "azure_docs/event-hubs/event-hubs-quickstart-stream-large-messages.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-stream-large-messages",
+      "acl": "public",
+      "size": 3879,
+      "git_sha": "761d4523ab861d1ffe045fb9c8d9af85d6c82380"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-resource-manager-namespace-event-hub",
+      "path": "azure_docs/event-hubs/event-hubs-resource-manager-namespace-event-hub.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub",
+      "acl": "public",
+      "size": 6391,
+      "git_sha": "15870307147bdb15d4141723dda0ee0739786042"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-scalability",
+      "path": "azure_docs/event-hubs/event-hubs-scalability.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability",
+      "acl": "public",
+      "size": 4352,
+      "git_sha": "d75b870b1dfe9f42574f724d559c8c1d80cbb6fa"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/event-hubs-storm-getstarted-receive",
+      "path": "azure_docs/event-hubs/event-hubs-storm-getstarted-receive.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-storm-getstarted-receive",
+      "acl": "public",
+      "size": 11161,
+      "git_sha": "8f941e8bf87d6e692076e41ed786e5ed85d5c334"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/exceptions-dotnet",
+      "path": "azure_docs/event-hubs/exceptions-dotnet.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/exceptions-dotnet",
+      "acl": "public",
+      "size": 3797,
+      "git_sha": "4d2be3ab438729d6f805d35b4b4687cd9889f3fd"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/geo-replication",
+      "path": "azure_docs/event-hubs/geo-replication.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/geo-replication",
+      "acl": "public",
+      "size": 22475,
+      "git_sha": "6e3a1e472375ffef4f03fa1b98fbbd3fb36cb7b7"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/monitor-event-hubs-reference",
+      "path": "azure_docs/event-hubs/monitor-event-hubs-reference.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/monitor-event-hubs-reference",
+      "acl": "public",
+      "size": 19871,
+      "git_sha": "0d027ea7d5062c25f82856671a342e7dd191c28c"
+    },
+    {
+      "doc_id": "azure_docs/event-hubs/network-security-perimeter",
+      "path": "azure_docs/event-hubs/network-security-perimeter.md",
+      "source": "azure_docs",
+      "product": "event-hubs",
+      "url": "https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter",
+      "acl": "public",
+      "size": 4459,
+      "git_sha": "9faf000fa37a29742d2cfb35ca166739085d7b53"
+    },
+    {
+      "doc_id": "azure_docs/app-service/app-service-asp-net-migration",
+      "path": "azure_docs/app-service/app-service-asp-net-migration.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/app-service-asp-net-migration",
+      "acl": "public",
+      "size": 10800,
+      "git_sha": "c34861f27da6ad49fb95ff1f1ad31fb1adbe3ae8"
+    },
+    {
+      "doc_id": "azure_docs/app-service/app-service-ip-restrictions",
+      "path": "azure_docs/app-service/app-service-ip-restrictions.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions",
+      "acl": "public",
+      "size": 28012,
+      "git_sha": "45e821e5b76b20c3782ed9b8026b7346debe3b5e"
+    },
+    {
+      "doc_id": "azure_docs/app-service/app-service-web-configure-tls-mutual-auth",
+      "path": "azure_docs/app-service/app-service-web-configure-tls-mutual-auth.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth",
+      "acl": "public",
+      "size": 27011,
+      "git_sha": "4d98eb5c44aa2076127c89c2ca5a406da35fd48d"
+    },
+    {
+      "doc_id": "azure_docs/app-service/configure-authentication-customize-sign-in-out",
+      "path": "azure_docs/app-service/configure-authentication-customize-sign-in-out.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-customize-sign-in-out",
+      "acl": "public",
+      "size": 11818,
+      "git_sha": "12a7bb5008679fcc61b997efa125995a42a76ccb"
+    },
+    {
+      "doc_id": "azure_docs/app-service/configure-authentication-provider-apple",
+      "path": "azure_docs/app-service/configure-authentication-provider-apple.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-apple",
+      "acl": "public",
+      "size": 12004,
+      "git_sha": "c1da3124a72af107dbfe0e26e0d4a0c493fc6b9c"
+    },
+    {
+      "doc_id": "azure_docs/app-service/configure-authentication-user-identities",
+      "path": "azure_docs/app-service/configure-authentication-user-identities.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-user-identities",
+      "acl": "public",
+      "size": 8906,
+      "git_sha": "6a19465b495dbe565d962643fdb330eb5c9ad12d"
+    },
+    {
+      "doc_id": "azure_docs/app-service/configure-error-pages",
+      "path": "azure_docs/app-service/configure-error-pages.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-error-pages",
+      "acl": "public",
+      "size": 4889,
+      "git_sha": "a1c305d3d941c1eee3a14d8db14fecc5cbf8995e"
+    },
+    {
+      "doc_id": "azure_docs/app-service/configure-language-java-apm",
+      "path": "azure_docs/app-service/configure-language-java-apm.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-language-java-apm",
+      "acl": "public",
+      "size": 11598,
+      "git_sha": "0d93f098a89ae90f3edad367e7fa17278f6beb3f"
+    },
+    {
+      "doc_id": "azure_docs/app-service/configure-language-python",
+      "path": "azure_docs/app-service/configure-language-python.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-language-python",
+      "acl": "public",
+      "size": 36181,
+      "git_sha": "26a483b780bbaf24eb8ac394cf73aeca98c8bc1a"
+    },
+    {
+      "doc_id": "azure_docs/app-service/configure-ssl-bindings",
+      "path": "azure_docs/app-service/configure-ssl-bindings.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-bindings",
+      "acl": "public",
+      "size": 9577,
+      "git_sha": "74e97d917da7187907372872c57edade95180904"
+    },
+    {
+      "doc_id": "azure_docs/app-service/deploy-authentication-types",
+      "path": "azure_docs/app-service/deploy-authentication-types.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/deploy-authentication-types",
+      "acl": "public",
+      "size": 7151,
+      "git_sha": "f1440edfbd20a93d5c73e2517d84c8a194043b05"
+    },
+    {
+      "doc_id": "azure_docs/app-service/deploy-container-github-action",
+      "path": "azure_docs/app-service/deploy-container-github-action.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/deploy-container-github-action",
+      "acl": "public",
+      "size": 22487,
+      "git_sha": "2c00f6720342ab3facf0d516befa12835d03749e"
+    },
+    {
+      "doc_id": "azure_docs/app-service/deploy-run-package",
+      "path": "azure_docs/app-service/deploy-run-package.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/deploy-run-package",
+      "acl": "public",
+      "size": 7836,
+      "git_sha": "b9aa3d5a402949fa0814fb8766a31d1f11ebe489"
+    },
+    {
+      "doc_id": "azure_docs/app-service/language-support-policy",
+      "path": "azure_docs/app-service/language-support-policy.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/language-support-policy",
+      "acl": "public",
+      "size": 12817,
+      "git_sha": "bf4742e535b79ab85deff4ead79d920e455562d0"
+    },
+    {
+      "doc_id": "azure_docs/app-service/manage-scale-per-app",
+      "path": "azure_docs/app-service/manage-scale-per-app.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/manage-scale-per-app",
+      "acl": "public",
+      "size": 17116,
+      "git_sha": "cae7448f720fa79085635338f0f96b30c54c223c"
+    },
+    {
+      "doc_id": "azure_docs/app-service/monitor-app-service-reference",
+      "path": "azure_docs/app-service/monitor-app-service-reference.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/monitor-app-service-reference",
+      "acl": "public",
+      "size": 8054,
+      "git_sha": "de086979dd3e969735474765e9410ed8deb361dc"
+    },
+    {
+      "doc_id": "azure_docs/app-service/overview-access-restrictions",
+      "path": "azure_docs/app-service/overview-access-restrictions.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/overview-access-restrictions",
+      "acl": "public",
+      "size": 14048,
+      "git_sha": "a9b7f6720cee81a32ec1658980d79f574e0dc456"
+    },
+    {
+      "doc_id": "azure_docs/app-service/overview-custom-domains",
+      "path": "azure_docs/app-service/overview-custom-domains.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/overview-custom-domains",
+      "acl": "public",
+      "size": 5655,
+      "git_sha": "347f60109f6239f44776bc8d3d464fa4bb224e63"
+    },
+    {
+      "doc_id": "azure_docs/app-service/overview-managed-connectors",
+      "path": "azure_docs/app-service/overview-managed-connectors.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/overview-managed-connectors",
+      "acl": "public",
+      "size": 31665,
+      "git_sha": "2a13f7900120b57526d36370155b2e3bbf402556"
+    },
+    {
+      "doc_id": "azure_docs/app-service/overview-private-endpoint",
+      "path": "azure_docs/app-service/overview-private-endpoint.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/overview-private-endpoint",
+      "acl": "public",
+      "size": 11922,
+      "git_sha": "50a927da6e50a79368faef61a4ceb8fd977d404a"
+    },
+    {
+      "doc_id": "azure_docs/app-service/overview-wordpress",
+      "path": "azure_docs/app-service/overview-wordpress.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/overview-wordpress",
+      "acl": "public",
+      "size": 8253,
+      "git_sha": "4ff5917e65ebd7a262494a7320c9a34cca92f0ed"
+    },
+    {
+      "doc_id": "azure_docs/app-service/quickstart-aspire",
+      "path": "azure_docs/app-service/quickstart-aspire.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/quickstart-aspire",
+      "acl": "public",
+      "size": 10404,
+      "git_sha": "2e78f0fb382cf5f774ad6eae0d385f76c77feae0"
+    },
+    {
+      "doc_id": "azure_docs/app-service/quickstart-webjobs",
+      "path": "azure_docs/app-service/quickstart-webjobs.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/quickstart-webjobs",
+      "acl": "public",
+      "size": 6841,
+      "git_sha": "92aba285f311048864fce83e3bcadd229abe9e86"
+    },
+    {
+      "doc_id": "azure_docs/app-service/samples-bicep",
+      "path": "azure_docs/app-service/samples-bicep.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/samples-bicep",
+      "acl": "public",
+      "size": 4329,
+      "git_sha": "fa30bf085f8f8b7a65e24eb1bbe76ab04360eafd"
+    },
+    {
+      "doc_id": "azure_docs/app-service/scenario-ai-local-small-language-model",
+      "path": "azure_docs/app-service/scenario-ai-local-small-language-model.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/scenario-ai-local-small-language-model",
+      "acl": "public",
+      "size": 3632,
+      "git_sha": "51c0440177528ac80f3c8c79b0f721ee78319f61"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tls-minimum-version",
+      "path": "azure_docs/app-service/tls-minimum-version.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tls-minimum-version",
+      "acl": "public",
+      "size": 16298,
+      "git_sha": "30e36d0a34ffbeb4825904e3c302d64110cf51b4"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-ai-agent-web-app-semantic-kernel-foundry-dotnet",
+      "path": "azure_docs/app-service/tutorial-ai-agent-web-app-semantic-kernel-foundry-dotnet.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-agent-web-app-semantic-kernel-foundry-dotnet",
+      "acl": "public",
+      "size": 14774,
+      "git_sha": "558a6f8ef5f1edf33ea85bd55f9323c01b335d2e"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-ai-model-context-protocol-server-dotnet",
+      "path": "azure_docs/app-service/tutorial-ai-model-context-protocol-server-dotnet.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-model-context-protocol-server-dotnet",
+      "acl": "public",
+      "size": 12478,
+      "git_sha": "5ca4dc331ad09d8748e28184355254084cdd144f"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-ai-openai-chatbot-node",
+      "path": "azure_docs/app-service/tutorial-ai-openai-chatbot-node.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-ai-openai-chatbot-node",
+      "acl": "public",
+      "size": 11320,
+      "git_sha": "2eaeac84936aa0ccd89cadc235d08a30cba20856"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-auth-aad",
+      "path": "azure_docs/app-service/tutorial-auth-aad.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-auth-aad",
+      "acl": "public",
+      "size": 28166,
+      "git_sha": "edd1cbd910a3cd4e107ba3b9898a14cc5e01f079"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-connect-msi-sql-database",
+      "path": "azure_docs/app-service/tutorial-connect-msi-sql-database.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-connect-msi-sql-database",
+      "acl": "public",
+      "size": 19194,
+      "git_sha": "5b6ac2bfd8e64fcae00563c4a0a8e0fadda31506"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-java-quarkus-postgresql-app",
+      "path": "azure_docs/app-service/tutorial-java-quarkus-postgresql-app.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-java-quarkus-postgresql-app",
+      "acl": "public",
+      "size": 51294,
+      "git_sha": "c0f1009cab0cba96f2bafdbd621d797d674131ac"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-nodejs-mongodb-app",
+      "path": "azure_docs/app-service/tutorial-nodejs-mongodb-app.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app",
+      "acl": "public",
+      "size": 48702,
+      "git_sha": "37c555ff90aa9271ae9a60590311be49363d8e05"
+    },
+    {
+      "doc_id": "azure_docs/app-service/tutorial-secure-ntier-app",
+      "path": "azure_docs/app-service/tutorial-secure-ntier-app.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/tutorial-secure-ntier-app",
+      "acl": "public",
+      "size": 33927,
+      "git_sha": "da2322f2ad6a66ce80a878993482bd52f4b00fd9"
+    },
+    {
+      "doc_id": "azure_docs/app-service/web-sites-monitor",
+      "path": "azure_docs/app-service/web-sites-monitor.md",
+      "source": "azure_docs",
+      "product": "app-service",
+      "url": "https://learn.microsoft.com/en-us/azure/app-service/web-sites-monitor",
+      "acl": "public",
+      "size": 6725,
+      "git_sha": "4615d03f0144138b1b543010cb32d8911d57849f"
+    },
+    {
+      "doc_id": "synthetic/inc-48213-runbook",
+      "path": "synthetic/inc-48213-runbook.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/inc-48213-runbook",
+      "acl": "internal",
+      "size": 1279,
+      "git_sha": "6ea151be1a1b686969d035188d6d016334a5fd35"
+    },
+    {
+      "doc_id": "synthetic/keyvault-breakglass",
+      "path": "synthetic/keyvault-breakglass.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/keyvault-breakglass",
+      "acl": "restricted",
+      "size": 965,
+      "git_sha": "d76103327fbdfc216a436625b5cc1e3d2acea9b2"
+    },
+    {
+      "doc_id": "synthetic/monitor-escalation",
+      "path": "synthetic/monitor-escalation.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/monitor-escalation",
+      "acl": "restricted",
+      "size": 640,
+      "git_sha": "7022d76df108bb7d3166d16e50421f61a57b2382"
+    },
+    {
+      "doc_id": "synthetic/aks-cluster-standards",
+      "path": "synthetic/aks-cluster-standards.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/aks-cluster-standards",
+      "acl": "internal",
+      "size": 712,
+      "git_sha": "1c6c42d3277b60fa3370faec88fccc9094e90ece"
+    },
+    {
+      "doc_id": "synthetic/blob-lifecycle-policy-v1",
+      "path": "synthetic/blob-lifecycle-policy-v1.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/blob-lifecycle-policy-v1",
+      "acl": "internal",
+      "size": 382,
+      "git_sha": "8cc5b8ee105cdaeb31467a6903acd71f8008df90"
+    },
+    {
+      "doc_id": "synthetic/blob-lifecycle-policy-v2",
+      "path": "synthetic/blob-lifecycle-policy-v2.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/blob-lifecycle-policy-v2",
+      "acl": "internal",
+      "size": 558,
+      "git_sha": "7467f250327643f0f78fdb8865222f908798fbb4"
+    },
+    {
+      "doc_id": "synthetic/support-faq-blob-lifecycle",
+      "path": "synthetic/support-faq-blob-lifecycle.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/support-faq-blob-lifecycle",
+      "acl": "public",
+      "size": 942,
+      "git_sha": "44967a135b11079f940b9ccf38dae70246f1cac0"
+    },
+    {
+      "doc_id": "synthetic/functions-cost-guidelines",
+      "path": "synthetic/functions-cost-guidelines.md",
+      "source": "synthetic",
+      "product": "internal",
+      "url": "internal://kb/functions-cost-guidelines",
+      "acl": "internal",
+      "size": 421,
+      "git_sha": "4e539725a2c56bc36cc901658e69508f49da05a3"
+    }
+  ]
+}

@@ -1,1 +1,40 @@
 .venv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+service-account*.json
+
+# Generated RAG artifacts
+RAG/store/
+RAG/data/golden_set.json
+RAG/data/e2e_results.csv
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,15 @@
+google-genai
+langchain
+langchain-classic
+langchain-community
+langchain-google-genai
+langgraph
+python-dotenv
+rank-bm25
+faiss-cpu
+bm25s
+numpy
+pandas
+tiktoken
+requests
+ipykernel
